@@ -1,2 +1,7 @@
 .env
 /venv
+__pycache__/
+data/data.csv
+.DS_Store
+/models/bert_mental_health/
+data/processed/
